@@ -1,5 +1,5 @@
 # BENVENUTO NEL MIO GITHUB! 👾
-👋 Ciao! Sono Martino, il tuo ✨ Junior Full Stack Developer ✨
+👋 Ciao! Sono Martino, ✨ Junior Full Stack Developer ✨
 Benvenuti nel mio spazio digitale! Sono Martino, uno Junior Developer con una passione smisurata per la creazione di soluzioni software robuste e funzionali. Il mio cuore batte forte per il backend, ma ho una solida comprensione dell'intero stack di sviluppo.
 
 🚀 Le Mie Competenze in Pillole
